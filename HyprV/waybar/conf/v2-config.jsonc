@@ -1,4 +1,8 @@
 {
+    "clock": {
+       "format": "{:%Y-%m-%d %H:%M}",
+       "tooltip-format": "<big>{:%A, %d %B %Y}</big>\n<tt>{calendar}</tt>"
+    },
     "layer": "top",
     "position": "top",
     "mod": "dock",
